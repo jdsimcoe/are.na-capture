@@ -13,6 +13,8 @@
     "tabs"
   ],
   "host_permissions": [
+    "http://*/*",
+    "https://*/*",
     "https://api.are.na/*",
     "https://www.are.na/*",
     "https://s3.amazonaws.com/*",
